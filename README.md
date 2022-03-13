@@ -1,1 +1,1 @@
-# ad-blocker-addon
+# NoteWorthy-Addon
