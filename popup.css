@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 224, 45);
+}
+
+.save-button {
+    margin-top: 5vw;
+    margin-left: 1vw;
+    width: 20vw;
+    font-weight: 400;
+    font-size: 18px;
+    background-color: #DD007C;
+    border-color: #DD007C;
+}
+
+#notes{
+    border-radius: 8px;
+    padding: 7px;
+    background-color: #333;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+
+}
